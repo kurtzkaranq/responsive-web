@@ -1,0 +1,31 @@
+body{
+    height: 300vh;
+}
+.logo{
+    padding: 3%;
+    width: 20%;
+    /* height: 5%; */
+}
+.pic{
+    width: 100%;
+}
+.wallpaper{
+    width: 100%;
+    border-radius: 50px;
+    
+}
+.title-image{
+    border-radius: 30px;
+    /* margin: auto; */
+}
+.title-image h5{
+    text-align: center;
+}
+.title-image img{
+    width: 100%;
+    padding: 3%;
+    border-radius: 30px;
+}
+.info-image{
+    width: 100%;
+}
